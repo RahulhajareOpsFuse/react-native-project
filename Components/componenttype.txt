@@ -1,0 +1,12 @@
+Class Component : 
+    Class   
+    constructor
+    lifecycle methods
+    scope of 'this' etc
+
+Functional Component:
+    it looks like small functions.
+    you dont use lifecycle method directly.
+    you needs to use hooks.
+    now react use hooks
+    Mostly recommend to use functional components.
