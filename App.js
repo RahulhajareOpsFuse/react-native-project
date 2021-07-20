@@ -12,7 +12,7 @@ import {
   View,Text,
 } from 'react-native';
 
-import CallApi from './Components/CallApi';
+import ReactVal from './Components/ReactVal';
 
 
 const App=()=>{
@@ -25,7 +25,8 @@ const App=()=>{
      {/* <ExFlex/>*/}
      {/*<ExDidMountMethod/>*/}
      {/*<ExFlatlist/>*/}
-     <CallApi/>
+     {/* <CallApi/>*/}
+     <ReactVal/>
     </View>
   );
 };

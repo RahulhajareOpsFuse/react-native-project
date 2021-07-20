@@ -10,6 +10,8 @@ import{
     Text
 }from 'react-native'
 
+import App from '../App'
+
 class ExDidMountMethod extends React.Component{
     constructor(){
         super()
